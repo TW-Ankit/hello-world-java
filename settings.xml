@@ -3,6 +3,8 @@ Password="P@ssword@123"
 
 api_key="abcdefghijklmnopqrstuvwxyz012345"
 
+SecretString = "yauphee2shohhuz6at5sooMyauphee2sho"
+
 # AWS
 access_key=AKIAJWVN5Z4FOFT7NLNB
 secret_key=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
